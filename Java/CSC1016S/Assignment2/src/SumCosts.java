@@ -1,6 +1,5 @@
 /**
  * Program that asks the user to input a series of rand amounts, sums them up and then prints the result
- * Rand values only
  *
  * @author: Yolisa Pingilili
  */
