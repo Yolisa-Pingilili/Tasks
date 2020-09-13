@@ -1,5 +1,5 @@
 /**
- * A DigitFilter obect is used to extract, one-by-one, the numbers embedded in a string
+ * A DigitFilter object is used to extract, one-by-one, the numbers embedded in a string
  * e.g. given "6432dhe236s7s", the digits 6, 4, 3, 2, 2, 3, 6 and 7 may be extracted.
  * 
  * @author: Yolisa Pingilili
