@@ -41,6 +41,7 @@ public class TariffTable{
         for(int i=0; i<numTariff; i++){
             if(table[i].getTimePeriod().includes(lengthOfStay)){
                 money = table[i].getMoney();
+                break;
             }
         }
         return money;
