@@ -2,7 +2,7 @@
  * A ParkingTariff object will be a composed of a TimePeriod object and its suitable Money object.
  * This solution of creating a ParkingTariff object is implemented because it is a better solution
  * than just having 2 arrays in the TariffTable class, one for TimePeriod objects and another for Money objects,
- * where the TimePeriod at array index i in the first array will be correspond with the Money object at index i in the second array.
+ * where the TimePeriod at array index i in the first array will correspond with the Money object at index i in the second array.
  *
  * @author : Yolisa Pingilili
  */
